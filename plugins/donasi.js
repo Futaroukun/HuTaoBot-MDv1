@@ -17,7 +17,7 @@ let handler = async (m, { conn }) => conn.send2ButtonLoc(m.chat, await (await fe
 ╔════════════════════
 ║ *Donasi Via Ikuti Sosial media*
 ╠════════════════════
-║     ❉ 〔 *Hu Tao Bot-MD 〕 ❉
+║     ❉ 〔 *Hu Tao Bot-MD* 〕 ❉
 ║➸ *Tiktok*
 ║ https://vt.tiktok.com/ZSeABMWuN
 ║➸ *Youtube*
